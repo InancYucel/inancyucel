@@ -7,4 +7,5 @@
 🌱 I am currently intensively learning .NET and React JS. I do these by following the courses I take from Udemy and sharing the projects I make on my GitHub account.
 
 Strong Languages: Javascript, SQL, C#
+
 How to reach me: https://www.linkedin.com/in/inancyucel/
