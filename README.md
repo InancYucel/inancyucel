@@ -8,4 +8,7 @@
 
 Strong Languages: Javascript, SQL, C#
 
+Connect with me:
+![image](https://github.com/InancYucel/inancyucel/assets/48295407/50b2206e-314e-40ee-a78d-fe07497a66d7)
+
 How to reach me: https://www.linkedin.com/in/inancyucel/
