@@ -9,7 +9,9 @@
 Strong Languages: Javascript, SQL, C#
 
 Contact me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin,discord,instagram)](https://skillicons.dev)
+<div align="center">
+	<code><img width="50" src="https://tifennlp.com/wp-content/uploads/2016/12/linkedin-icon-logo-vector-400x400.png" alt="Git" title="Git"/></code>
+</div>
 
 Technologies:
 <div align="center">
@@ -26,6 +28,8 @@ Technologies:
 </div>
 
 Tools:
-
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+</div>
 
 How to reach me: https://www.linkedin.com/in/inancyucel/
