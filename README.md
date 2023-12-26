@@ -10,7 +10,7 @@ Strong Languages: Javascript, SQL, C#
 
 Contact me:
 <div align="center">
-	<code><img width="50" src="https://tifennlp.com/wp-content/uploads/2016/12/linkedin-icon-logo-vector-400x400.png" alt="Git" title="Git"/></code>
+	<code><img width="25" src="https://tifennlp.com/wp-content/uploads/2016/12/linkedin-icon-logo-vector-400x400.png" alt="Git" title="Git"/></code>
 </div>
 
 Technologies:
