@@ -11,6 +11,8 @@ Strong Languages: Javascript, SQL, C#
 Contact me:
 <div>
 <code><a href="https://www.linkedin.com/in/inancyucel" target="_blank"><img width="35" src="https://tifennlp.com/wp-content/uploads/2016/12/linkedin-icon-logo-vector-400x400.png" alt="Git" title="Git"/></a></code>
+<code><a href="https://discordapp.com/users/323617063728054273" target="_blank"><img width="35" src=" https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="Git" title="Git"/></a></code>
+<code><a href="https://www.instagram.com/inancyucel" target="_blank"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Git" title="Git"/></a></code>
 </div>
 
 Technologies:
