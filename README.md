@@ -14,7 +14,7 @@ Strong Languages: Javascript, SQL, C#
 <code><a href="https://www.linkedin.com/in/inancyucel" target="_blank"><img width="35" src="https://tifennlp.com/wp-content/uploads/2016/12/linkedin-icon-logo-vector-400x400.png" alt="Linkedin" title="Linkedin"/></a></code>
 <code><a href="https://discordapp.com/users/323617063728054273" target="_blank"><img width="35" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="Discord" title="Discord"/></a></code>
 <code><a href="https://www.instagram.com/inancyucel" target="_blank"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" title="Instagram"/></a></code>
-</div>
+</div><br>
 
 
 <div>
@@ -29,7 +29,7 @@ Strong Languages: Javascript, SQL, C#
 <code><img width="35" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 <code><img width="35" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 <code><img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-</div>
+</div><br>
 
 
 <div>
